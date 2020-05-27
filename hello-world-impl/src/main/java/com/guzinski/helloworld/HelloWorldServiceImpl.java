@@ -1,7 +1,6 @@
-package com.guzinski.com;
+package com.guzinski.helloworld;
 
 import akka.NotUsed;
-import com.guzinski.helloworld.HelloWorldService;
 import com.lightbend.lagom.javadsl.api.ServiceCall;
 
 import java.util.concurrent.CompletableFuture;

@@ -1,6 +1,5 @@
-package com.guzinski.com;
+package com.guzinski.helloworld;
 
-import com.guzinski.helloworld.HelloWorldService;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
